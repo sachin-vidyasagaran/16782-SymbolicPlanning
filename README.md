@@ -1,7 +1,7 @@
 # Symbolic Task Planning
 A generic symbolic task planner written for Assignment 3 of the Graduate Course 16-782: Planning and Decision Making in Robotics, at Carnegie Mellon University
 
-## Compiltion Instructions
+## Compilation Instructions
 To compile the planner
 ```console
 $ g++ -g planner.cpp –o planner.out
